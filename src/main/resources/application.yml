@@ -16,7 +16,7 @@ spring:
         instance-id: 1
 
 server:
-  port: 1201
+  port: 8070
 
 
 
